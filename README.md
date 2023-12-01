@@ -62,5 +62,5 @@ public void check_more_outcomes() throws Throwable {
 
 # Print de console atual após modificações concluidas
 
-![img.png](imgs/tag1_pt1.png)
+![img.png](imgs/Resultado.png)
 
