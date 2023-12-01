@@ -1,5 +1,4 @@
-# 
-BDD_Cucumber - Exercício de Desenvolvimento
+# BDD_Cucumber - Exercício de Desenvolvimento
 Um exercício de desenvolvimento BDD para a criação de um sistema de conta bancária utilizando o Cucumber.
 
 # Cenario de teste
