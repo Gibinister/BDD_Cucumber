@@ -25,9 +25,6 @@ Feature: Saque de Dinheiro em Contas Bancárias
 Após executar é sugerido os metodos a serem implementados
 
 ![img.png](imgs/tag1_pt1.png)
-
 ![img_1.png](imgs/tag1_pt2.png)
-
 ![img3.png](imgs/tag2_pt1.png)
-
 ![img4.png](imgs/tag2_pt2.png)
