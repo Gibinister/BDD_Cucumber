@@ -60,14 +60,7 @@ public void check_more_outcomes() throws Throwable {
     throw new PendingException();
 ```
 
-# Print de console atual após modificação
+# Print de console atual após modificações concluidas
 
-## Tag 1 - Scenario 1 - Tentar sacar mais dinheiro do que está disponível em uma conta comum
-Prints após implementação da primeira sujestão:
 ![img.png](imgs/tag1_pt1.png)
-![img.png](imgs/tag1_pt2.png)
 
-## Tag 2 - Scenario 2 - Tentar sacar mais dinheiro do que está disponível em uma conta premium
-Prints após implementação da primeira sujestão:
-![img.png](imgs/tag2_pt1.png)
-![img.png](imgs/tag2_pt2.png)
