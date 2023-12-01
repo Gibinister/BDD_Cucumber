@@ -47,6 +47,5 @@ public class Conta {
 
     @Then("^check more outcomes$")
     public void check_more_outcomes() {
-        // Adicione lógica adicional para verificar outros resultados, se necessário
     }
 }
