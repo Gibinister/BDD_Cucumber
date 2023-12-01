@@ -20,7 +20,7 @@ Feature: Saque de Dinheiro em Contas Bancárias
     Then efetuar o saque e atualizar o saldo para -300
     And check more outcomes
 ```
-## mplementação Inicial
+## Implementação Inicial
 Após a execução do cenário de teste pela primeira vez, foram sugeridos os seguintes métodos a serem implementados.
 
 ```java
@@ -60,16 +60,14 @@ public void check_more_outcomes() throws Throwable {
     throw new PendingException();
 ```
 
+# Print de console atual após modificação
 
-###Tag 1 - Scenario 1 - Tentar sacar mais dinheiro do que está disponível em uma conta comum
+## Tag 1 - Scenario 1 - Tentar sacar mais dinheiro do que está disponível em uma conta comum
 Prints após implementação da primeira sujestão:
 ![img.png](imgs/tag1_pt1.png)
 ![img_1.png](imgs/tag1_pt2.png)
 
-##Tag 2 - Scenario 2 - Tentar sacar mais dinheiro do que está disponível em uma conta premium
+## Tag 2 - Scenario 2 - Tentar sacar mais dinheiro do que está disponível em uma conta premium
 Prints após implementação da primeira sujestão:
 ![img3.png](imgs/tag2_pt1.png)
 ![img4.png](imgs/tag2_pt2.png)
-
-#Codigo Main
-Após rodar o cenario de teste  
